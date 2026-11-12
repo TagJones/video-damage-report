@@ -1,0 +1,3 @@
+faster-whisper>=1.1
+opencv-python>=4.8
+av>=12

@@ -1,0 +1,16 @@
+# Your videos and generated reports stay on your machine: they show the inside of your home.
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.m4v
+*.avi
+*.mkv
+*.3gp
+*.webm
+* - damage report/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
